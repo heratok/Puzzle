@@ -1,0 +1,11 @@
+C:\Users\HectorR\Desktop\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\HectorR\Desktop\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\HectorR\Desktop\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\HectorR\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.AssemblyReference.cache
+C:\Users\HectorR\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.SuggestedBindingRedirects.cache
+C:\Users\HectorR\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.Form1.resources
+C:\Users\HectorR\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+C:\Users\HectorR\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+C:\Users\HectorR\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\HectorR\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\HectorR\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
